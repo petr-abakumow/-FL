@@ -1,0 +1,10 @@
+@import url(./__text/entrance__text.css);
+@import url(./__icon/entrance__icon.css);
+
+.entrance {
+    text-decoration: none;
+    padding: 0;
+    margin: 0 0 0 40px;
+    display: flex;
+    align-items: center;
+}

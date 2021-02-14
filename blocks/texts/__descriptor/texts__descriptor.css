@@ -1,0 +1,10 @@
+.texts__descriptor {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    margin: 10px 0 0 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: rgb(100, 98, 98);
+}

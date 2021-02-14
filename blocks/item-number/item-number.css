@@ -1,0 +1,10 @@
+@import url(./__element/item-number__element.css);
+
+.item-number {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: 2px solid red;
+    display: flex;
+
+}

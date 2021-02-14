@@ -1,0 +1,9 @@
+.menu-list__item-link {
+    text-decoration: none;
+    color: black;
+    
+}
+
+.menu-list__item-link:hover {
+    color: red;
+}

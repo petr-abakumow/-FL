@@ -1,12 +1,177 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Для Павла</title>
-</head>
-<body>
-    <p>здесь будет лендинг</p>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="icon" href="#">
+        <link rel="stylesheet" href="./index.css">
+        <script src="./index.js" defer></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Для Павла</title>
+    </head>
+<body class="body" style="visibility: hidden;" onload="document.querySelector('.body').style.visibility = 'visible'">
+    <div class="container">
+        <header class="header">
+            <div class="logo-container">
+                <div class="logo-container__img">
+
+                </div>
+                <h1 class="logo-container__text">Конструктор онлайн калькуляторов на сайт типографии или РА</h1>
+            </div>
+            <nav class="menu">
+                <ul class="menu-list">
+                    <li class="menu-list__item"><a href="" class="menu-list__item-link">Категория</a></li>
+                    <li class="menu-list__item"><a href="" class="menu-list__item-link">Категория</a></li>
+                    <li class="menu-list__item"><a href="" class="menu-list__item-link">Категория</a></li>
+                    <li class="menu-list__item"><a href="" class="menu-list__item-link">Категория</a></li>
+                </ul>
+            </nav>
+            <!-- ссылка вход -->
+            <a href="" class="entrance">
+                <p class="entrance__text">Войти</p>
+                <img src="./image/271-2715133_icn-logout-comments-login-logout-icon-png.png" alt="Войти" class="entrance__icon">
+            </a>
+            <button class="menu-mobile-icon">
+                <img src="" alt="" class="menu-mobile-icon__image">
+            </button>
+        </header>
+        <main class="content">
+            <!-- первый экран -->
+            <div class="offer">
+                <div class="offer-text-block">
+                    <div class="texts">
+                        <h2 class="texts__title">Установите калькулятор <br> на сайт типографии <br> или РА за несколько минут</h2>
+                        <p class="texts__descriptor">Легко и быстро устанавливается и <br> настраивается без помощи программистов и <br> дизайнеров</p>
+                    </div>
+                    <div class="links">
+                        <a href="" class="links__button">
+                            <button type="button" class="offer-button">Попробовать бесплатно</button>
+                        </a>
+                        <a href="" class="links__link">Зачем нужен калькулятор на сайте?</a>
+                    </div>
+                </div>
+                <img src="./image/Снимок экрана 2021-02-14 080831.jpg" alt="пример" class="offer-image">
+            </div>
+            <!-- презентация -->
+            <div class="presentation">
+                <ul class="presentation-list">
+                    <li class="presentation-list__item">
+                        <h2 class="presentation-list__title">2 минуты</h2>
+                        <p class="presentation-list__descriptor">Для регистрации</p>
+                    </li>
+                    <li class="presentation-list__item">
+                        <h2 class="presentation-list__title">50+ калькуляторов</h2>
+                        <p class="presentation-list__descriptor">Калькуляторы практически на  все полиграфические услуги (каждую неделю добавляем новые калькуляторы)</p>
+                    </li>
+                    <li class="presentation-list__item">
+                        <h2 class="presentation-list__title">10 минут</h2>
+                        <p class="presentation-list__descriptor">Для настройки и установки (при необходимости БЕСПЛАТНО сделаем это за вас)</p>
+                    </li>
+                    <li class="presentation-list__item">
+                        <h2 class="presentation-list__title">2 недели</h2>
+                        <p class="presentation-list__descriptor">Бесплатное пробное тестирование</p>
+                    </li>
+                </ul>
+            </div>
+            <!-- для чего нужен калькулятор -->
+            <div class="description">
+                <div class="description-info">
+                    <div class="description-info__text-block">
+                        <h2 class="description-info__title">Для чего нужен калькулятор на сайте типографии или РА? </h2>
+                        <div class="description-info__item">
+                            <div class="item-number">
+                                <p class="item-number__element">1</p>
+                            </div>
+                            <div class="item-texts-box">
+                                <h3 class="item-texts-box__title">Повышает удобство пользования сайтом</h3>
+                                <p class="item-texts-box__subtitle">Пользователям не придётся рыться в непонятных прайсах, расчет стоимости будет получен просто и очень быстро. </p>
+                            </div>
+                        </div>
+                        <div class="description-info__item">
+                            <div class="item-number">
+                                <p class="item-number__element">2</p>
+                            </div>
+                            <div class="item-texts-box">
+                                <h3 class="item-texts-box__title">Полезен для СЕО</h3>
+                                <p class="item-texts-box__subtitle">Сейчас поисковики обращают огромное внимание на поведенческий фактор, а благодаря калькулятору на сайте пользователь будет совершать больше действий.</p>
+                            </div>
+                        </div>
+                        <div class="description-info__item">
+                            <div class="item-number">
+                                <p class="item-number__element">3</p>
+                            </div>
+                            <div class="item-texts-box">
+                                <h3 class="item-texts-box__title">Повышает конверсию сайта</h3>
+                                <p class="item-texts-box__subtitle">Наши онлайн-калькуляторы позволяют мгновенно рассчитать стоимость тиража, они интегрированы с формой заказа, и кнопкой «хочу дешевле» а потому <span class="item-text-span">число заявок на сайте увеличивается во много раз.</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <img src="./image/image2.jpg" alt="скрин" class="description-info-image">
+                </div>
+                <div class="description-subtitle">
+                    <div class="description-subtitle__image"></div>
+                    <h3 class="description-subtitle__text">За счет чего повышается конверсия?</h3>
+                </div>
+                <p class="block-text">Сравните:</p>
+                <div class="table">
+                    <div class="table__item">
+                        <div class="table__texts">
+                            <h3 class="table__title">Обычный сайт </h3>
+                            <p class="table__subtitle">Согласитесь цена — определяющий фактор для принятия решения. Посетителю нужно пересмотреть сотни позиций в прайсе, сделать выборку цен и провести аналитику. На это уходит масса времени. Посетителю проще выбрать другую типографию, где все прозрачно.</p>
+                        </div>
+                        <img src="./image/table-image.jpg" alt="картинка" class="table__image">
+                    </div>
+                    <div class="table__item">
+                        <div class="table__texts">
+                            <h3 class="table__title">Сайт с онлайн-калькулятором</h3>
+                            <p class="table__subtitle">Посетители не тратят время на изучение прайса, они легко и быстро получают полезную информацию, которую не находят на других ресурсах. За счет информативности и удобства клиенты отдают предпочтение вашему сайту.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- презентация 2 -->
+            <div class="presentation">
+
+            </div>
+
+            <!-- карточки -->
+            <div class="cards">
+
+            </div>
+
+            <!-- видео -->
+            <div class="video">
+
+            </div>
+
+            <!-- возможности -->
+            <div class="opportunities">
+
+            </div>
+
+            <!-- инструкции -->
+            <div class="instructions">
+
+            </div>
+
+            <!-- карточки (поддержка) -->
+            <div class="cards">
+
+            </div>
+
+            <!-- вопросы -->
+            <div class="questions">
+
+            </div>
+
+            <!-- тарифы -->
+            <div class="tarifes">
+
+            </div>
+        </main>
+        <footer class="footer">
+            
+        </footer>
+    </div>
 </body>
 </html>

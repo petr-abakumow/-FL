@@ -1,0 +1,7 @@
+@import url(./__img/logo-container__img.css);
+@import url(./__text/logo-container__text.css);
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}

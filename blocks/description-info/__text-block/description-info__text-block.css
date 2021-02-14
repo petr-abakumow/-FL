@@ -1,0 +1,8 @@
+.description-info__text-block {
+    width: 100%;
+    max-width: 430px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 80px;
+    box-sizing: border-box;
+}

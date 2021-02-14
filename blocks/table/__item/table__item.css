@@ -1,0 +1,7 @@
+.table__item {
+    width: 100%;
+    max-width: 499px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

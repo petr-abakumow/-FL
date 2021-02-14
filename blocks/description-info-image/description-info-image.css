@@ -1,0 +1,6 @@
+.description-info-image {
+    width: 100%;
+    max-width: 500px;
+    object-fit: contain;
+    object-position: center;
+}

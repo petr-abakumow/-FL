@@ -1,0 +1,10 @@
+@import url(./__image/description-subtitle__image.css);
+@import url(./__text/description-subtitle__text.css);
+
+.description-subtitle {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 1000px;
+    margin-top: 100px;
+}

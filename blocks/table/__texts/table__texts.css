@@ -1,0 +1,9 @@
+.table__texts {
+    width: 100%;
+    max-width: 450px;
+    padding-left: 20px;
+    box-sizing: border-box;
+    border-left: 2px solid red;
+    display: flex;
+    flex-direction: column;
+}

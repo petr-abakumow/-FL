@@ -1,0 +1,10 @@
+@import url(./__text-block/description-info__text-block.css);
+@import url(./__title/description-info__title.css);
+@import url(./__item/description-info__item.css);
+
+.description-info {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+}

@@ -1,0 +1,8 @@
+@import url(./__title/texts__title.css);
+@import url(./__descriptor/texts__descriptor.css);
+
+.texts {
+    border-left: 3px solid red;
+    padding-left: 10px;
+    box-sizing: border-box;
+}

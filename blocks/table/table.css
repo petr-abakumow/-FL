@@ -1,0 +1,10 @@
+@import url(./__item/table__item.css);
+@import url(./__texts/table__texts.css);
+@import url(./__title/table__title.css);
+@import url(./__subtitle/table__subtitle.css);
+@import url(./__image/table__image.css);
+
+.table {
+    display: flex;
+    margin: 50px auto 0;
+}

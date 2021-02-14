@@ -1,0 +1,9 @@
+.item-texts-box__subtitle {
+    margin: 10px 0 0 10px;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 10px;
+    line-height: 15px;
+    width: 100%;
+    max-width: 300px;
+}

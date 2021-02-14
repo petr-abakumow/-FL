@@ -1,0 +1,5 @@
+.description-info__item {
+    width: max-content;
+    display: flex;
+    margin: 30px 0 0 0;
+}

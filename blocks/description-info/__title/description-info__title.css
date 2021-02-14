@@ -1,0 +1,9 @@
+.description-info__title {
+    font-size: 25px;
+    line-height: 40px;
+    font-weight: 900;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

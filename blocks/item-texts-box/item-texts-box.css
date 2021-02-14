@@ -1,0 +1,7 @@
+@import url(./__title/item-texts-box__title.css);
+@import url(./__subtitle/item-texts-box__subtitle.css);
+
+.item-texts-box {
+    display: flex;
+    flex-direction: column;
+}

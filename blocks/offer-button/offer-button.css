@@ -1,0 +1,17 @@
+.offer-button {
+    background-color: crimson;
+    border: none;
+    height: 40px;
+    width: 100%;
+    max-width: 200px;
+    color: white;
+    border-radius: 50px;
+    font-size: 12px;
+    line-height: 17px;
+}
+
+.offer-button:hover {
+    cursor: pointer;
+    background-color: rgba(124, 40, 40, 0.616);
+    transition: 0.2s;
+}
