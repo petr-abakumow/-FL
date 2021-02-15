@@ -1,0 +1,12 @@
+.opportunities-list-item {
+    width: 100%;
+    max-width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin-top: 41px;
+}
+
+.opportunities-list-item:first-child {
+    margin-left: 0;
+}

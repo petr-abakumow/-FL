@@ -63,3 +63,7 @@
 @import url(./blocks/video-button/video-button.css);
 @import url(./blocks/video-text/video-text.css);
 @import url(./blocks/video-text-mod/video-text-mod.css);
+@import url(./blocks/opportunities-title/opportunities-title.css);
+@import url(./blocks/opportunities-list/opportunities-list.css);
+@import url(./blocks/opportunities-list-item/opportunities-list-item.css);
+@import url(./blocks/opportunities-image/opportunities-image.css);
