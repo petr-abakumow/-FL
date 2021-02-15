@@ -1,0 +1,12 @@
+.smail-image {
+    width: 100%;
+    max-width: 110px;
+}
+
+.smail-image:first-child {
+    margin: -7px 0 0px 46px;
+}
+
+.smail-image:last-child {
+    margin: 1px 116px 0 0;
+}

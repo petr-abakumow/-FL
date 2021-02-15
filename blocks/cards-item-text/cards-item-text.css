@@ -1,0 +1,13 @@
+.cards-item-text {
+    margin: 15px auto;
+    color: black;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    max-width: 185px;
+    font-size: 15px;
+    line-height: 23px;
+}
+/* .cards-item-text:hover {
+    color: #e03a97;
+} */

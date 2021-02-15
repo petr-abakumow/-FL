@@ -5,9 +5,9 @@
 .presentation-list {
     display: flex;
     padding: 0;
-    margin: 0 auto;
+    margin: 50px auto;
     box-sizing: border-box;
-    width: inherit;
-    justify-content: center;
-    max-width: 1000px;
+    width: 100%;
+    max-width: 903px;
+    justify-content: space-between;
 }

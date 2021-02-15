@@ -1,9 +1,10 @@
 .presentation-list__descriptor {
-    font-size: 10px;
-    line-height: 15px;
+    font-size: 11px;
+    line-height: 19px;
     width: 100%;
-    max-width: 170px;
-    margin: 10px 0 0 0;
+    max-width: 195px;
+    margin: 12px 0 0 0;
     padding: 0;
     box-sizing: border-box;
+
 }

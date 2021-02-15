@@ -2,7 +2,7 @@
 @import url(./__descriptor/texts__descriptor.css);
 
 .texts {
-    border-left: 3px solid red;
+    border-left: 3px solid #e55eaa;
     padding-left: 10px;
     box-sizing: border-box;
 }

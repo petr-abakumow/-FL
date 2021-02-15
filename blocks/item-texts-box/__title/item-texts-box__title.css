@@ -1,8 +1,8 @@
 .item-texts-box__title {
-    margin: 0 0 0 10px;
+    margin: 0px 0 0 20px;
     padding: 0;
     box-sizing: border-box;
-    font-size: 15px;
-    line-height: 23px;
-    color: red;
+    font-size: 14px;
+    line-height: 20px;
+    color: #e03a97;
 }

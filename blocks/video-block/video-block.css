@@ -1,0 +1,11 @@
+.video-block {
+    width: 100%;
+    max-width: 632px;
+    border-radius: 5px;
+    margin-right: 17px;
+    margin-top: 38px;
+}
+
+.video-block:hover {
+    cursor: pointer;
+}

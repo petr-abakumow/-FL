@@ -1,0 +1,13 @@
+.video-text {
+    width: 100%;
+    max-width: 633px;
+    font-size: 10px;
+    line-height: 18px;
+    text-align: start;
+    margin: 30px 18px 0 0;
+    color: white;
+}
+
+.video-text:last-child {
+    margin-top: 21px;
+}

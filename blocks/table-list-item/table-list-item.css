@@ -1,0 +1,10 @@
+.table-list-item {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    margin-top: 11px;
+}
+
+.table-list-item:first-child {
+    margin: 0;
+}

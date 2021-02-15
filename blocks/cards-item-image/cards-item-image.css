@@ -1,0 +1,8 @@
+.cards-item-image {
+    width: 100%;
+    max-width: 281px;
+    object-fit: cover;
+    overflow: hidden;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}

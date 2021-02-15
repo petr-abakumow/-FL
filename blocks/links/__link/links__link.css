@@ -1,8 +1,8 @@
 .links__link {
     text-decoration: none;
-    color: red;
+    color: #e03a97;
     border-radius: 50px;
-    font-size: 12px;
+    font-size: 11px;
     line-height: 17px;
-    margin: 0 0 0 20px;
+    margin: 0 0 0 28px;
 }

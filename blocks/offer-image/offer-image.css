@@ -1,7 +1,7 @@
 .offer-image {
     width: 100%;
-    max-width: 670px;
+    max-width: 660px;
     object-fit: contain;
-    object-position: top;
-    margin-right: 30px;
+    object-position: center;
+    margin: -37px 0px 0px 0px;
 }

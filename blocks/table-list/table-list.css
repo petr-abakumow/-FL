@@ -1,0 +1,7 @@
+.table-list {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 41px 0 0 14px;
+}

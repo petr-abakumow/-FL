@@ -1,0 +1,12 @@
+.cards-item {
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    text-decoration: none;
+    box-shadow: 0 0 20px -8px rgb(15 15 15 / 88%);
+}
+
+.cards-item:hover .cards-item-text {
+    cursor: pointer;
+    color: #e03a97;
+}

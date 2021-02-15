@@ -1,7 +1,15 @@
 .table__item {
     width: 100%;
-    max-width: 499px;
+    max-width: 439px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+}
+
+.table__item:last-child {
+    max-width: 364px;
+    margin-left: 57px;
+}
+
+.table__item:first-child {
+    border-right: 1px solid #eaeaea;
 }

@@ -1,8 +1,7 @@
 .header {
     width: 100%;
-    max-width: 1000px;
+    max-width: 903px;
     display: flex;
     margin: auto;
-    height: 100px;
     box-sizing: border-box;
 }

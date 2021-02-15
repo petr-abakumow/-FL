@@ -1,10 +1,10 @@
 .texts__title {
     font-style: normal;
-    letter-spacing: 3px;
+    letter-spacing: 1px;
     font-weight: 400px;
     font-size: 30px;
-    line-height: 40px;
+    line-height: 44px;
     margin: 0;
     padding: 0;
-    color: black;
+    color: #000000;
 }

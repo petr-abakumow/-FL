@@ -1,0 +1,12 @@
+.video-button {
+    background-color: #e03a97;
+    width: 100%;
+    max-width: 201px;
+    border-radius: 50px;
+    padding: 14px 26px;
+    margin: 23px 25px 68px 0;
+    box-sizing: border-box;
+    font-size: 11px;
+    border: none;
+    color: white;
+}

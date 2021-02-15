@@ -1,5 +1,9 @@
 .video {
     width: 100%;
-    height: 800px;
-    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    background-color: rgb(75, 74, 74);
+    align-items: center;
+    text-align: center;
 }

@@ -1,0 +1,9 @@
+.smail {
+    width: 100%;
+    max-width: 800px;
+    display: flex;
+    justify-content: space-around;
+    gap: 280px;
+    margin: 4px auto 0;
+    box-sizing: border-box;
+}
