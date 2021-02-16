@@ -90,4 +90,9 @@
 @import url(./blocks/instruction-offer/instruction-offer.css);
 @import url(./blocks/instruction-offer-line/instruction-offer-line.css);
 @import url(./blocks/instruction-offer-title/instruction-offer-title.css);
-
+@import url(./blocks/instruction-plstform-info-box/instruction-plstform-info-box.css);
+@import url(./blocks/instruction-plstform-info/instruction-plstform-info.css);
+@import url(./blocks/instruction-plstform-info-title/instruction-plstform-info-title.css);
+@import url(./blocks/instruction-plstform-info-images/instruction-plstform-info-images.css);
+@import url(./blocks/platform-image/platform-image.css);
+@import url(./blocks/platform-image-item/platform-image-item.css);
