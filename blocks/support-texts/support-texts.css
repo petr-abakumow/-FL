@@ -1,0 +1,8 @@
+.support-texts {
+    width: 100%;
+    max-width: 398px;
+    margin: 13px auto 0;
+    border-left: 2px solid #e03a97;
+    box-sizing: border-box;
+    padding-left: 7px;
+}

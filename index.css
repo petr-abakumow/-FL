@@ -96,3 +96,11 @@
 @import url(./blocks/instruction-plstform-info-images/instruction-plstform-info-images.css);
 @import url(./blocks/platform-image/platform-image.css);
 @import url(./blocks/platform-image-item/platform-image-item.css);
+@import url(./blocks/support/support.css);
+@import url(./blocks/support-title/support-title.css);
+@import url(./blocks/support-cards/support-cards.css);
+@import url(./blocks/support-cards-item/support-cards-item.css);
+@import url(./blocks/support-image/support-image.css);
+@import url(./blocks/support-texts/support-texts.css);
+@import url(./blocks/support-texts-title/support-texts-title.css);
+@import url(./blocks/support-texts-subtitle/support-texts-subtitle.css);
