@@ -87,4 +87,7 @@
 @import url(./blocks/instruction-list/instruction-list.css);
 @import url(./blocks/instruction-table-title-mod/instruction-table-title-mod.css);
 @import url(./blocks/opportunities-text-mod/opportunities-text-mod.css);
+@import url(./blocks/instruction-offer/instruction-offer.css);
+@import url(./blocks/instruction-offer-line/instruction-offer-line.css);
+@import url(./blocks/instruction-offer-title/instruction-offer-title.css);
 

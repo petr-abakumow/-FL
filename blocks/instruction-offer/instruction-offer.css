@@ -1,0 +1,10 @@
+.instruction-offer {
+    width: 100%;
+    max-width: 904px;
+    display: flex;
+    justify-content: space-between;
+    margin: 56px auto 0;
+    align-items: center;
+    padding-right: 17px;
+    box-sizing: border-box;
+}
