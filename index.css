@@ -67,3 +67,23 @@
 @import url(./blocks/opportunities-list/opportunities-list.css);
 @import url(./blocks/opportunities-list-item/opportunities-list-item.css);
 @import url(./blocks/opportunities-image/opportunities-image.css);
+@import url(./blocks/opportunities-text/opportunities-text.css);
+@import url(./blocks/opportunities-list-item-title/opportunities-list-item-title.css);
+@import url(./blocks/instructions-settings-block/instructions-settings-block.css);
+@import url(./blocks/instructions-setting/instructions-setting.css);
+@import url(./blocks/instructions-setting-texts/instructions-setting-texts.css);
+@import url(./blocks/instructions-setting-texts-title/instructions-setting-texts-title.css);
+@import url(./blocks/instructions-setting-texts-subtitle/instructions-setting-texts-subtitle.css);
+@import url(./blocks/instructions-setting-title/instructions-setting-title.css);
+@import url(./blocks/instructions-setting-cards/instructions-setting-cards.css);
+@import url(./blocks/instructions-setting-cards-item/instructions-setting-cards-item.css);
+@import url(./blocks/setting-cards-item-texts/setting-cards-item-texts.css);
+@import url(./blocks/setting-cards-item-title/setting-cards-item-title.css);
+@import url(./blocks/setting-cards-item-subtitle/setting-cards-item-subtitle.css);
+@import url(./blocks/instructions-settings-block-image/instructions-settings-block-image.css);
+@import url(./blocks/setting-image/setting-image.css);
+@import url(./blocks/instruction-title/instruction-title.css);
+@import url(./blocks/instruction-table/instruction-table.css);
+@import url(./blocks/instruction-list/instruction-list.css);
+@import url(./blocks/instruction-table-title-mod/instruction-table-title-mod.css);
+

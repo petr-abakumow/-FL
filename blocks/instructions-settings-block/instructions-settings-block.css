@@ -1,0 +1,7 @@
+.instructions-settings-block {
+    width: 100%;
+    max-width: 907px;
+    display: flex;
+    margin: 79px auto 0;
+    position: relative;
+}

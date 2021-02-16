@@ -1,0 +1,8 @@
+.instructions-settings-block-image {
+    width: 100%;
+    max-width: 400px;
+    object-fit: contain;
+    position: absolute;
+    bottom: 1px;
+    right: 1px;
+}
