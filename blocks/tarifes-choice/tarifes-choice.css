@@ -1,0 +1,8 @@
+.tarifes-choice {
+    width: 100%;
+    max-width: 309px;
+    margin: 41px auto 0;
+    display: flex;
+    border: 2px solid #e03a97;
+    border-radius: 5px;
+}
