@@ -1,0 +1,12 @@
+.row-text-link-box {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #fdeaf5;
+    display: flex;
+    align-items: center;
+}
+
+.row-text-link-box:hover {
+    cursor: pointer;
+}

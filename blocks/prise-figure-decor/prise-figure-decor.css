@@ -1,0 +1,5 @@
+.prise-figure-decor {
+    display: flex;
+    flex-direction: column;
+    margin: 6px 0px 0 0px;
+}

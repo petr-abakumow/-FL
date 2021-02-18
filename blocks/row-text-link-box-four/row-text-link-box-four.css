@@ -1,0 +1,7 @@
+.row-text-link-box-four {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 5;
+    grid-row-end: 6;
+    margin-top: 12px;
+}

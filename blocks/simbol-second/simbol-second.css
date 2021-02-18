@@ -1,0 +1,9 @@
+.simbol-second {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}

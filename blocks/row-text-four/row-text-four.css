@@ -1,0 +1,8 @@
+.row-text-four {
+    grid-column-start: 1;
+    grid-column-end: -1;
+    grid-row-start: 5;
+    grid-row-end: 6;
+    background-color: #f5f5f5;
+    border-radius: 2px;
+}

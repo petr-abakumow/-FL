@@ -1,0 +1,9 @@
+.simbol-four {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 5;
+    grid-row-end: 6;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}

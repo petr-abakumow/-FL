@@ -1,0 +1,6 @@
+.prise-container {
+    display: grid;
+    grid-template-rows: 127px repeat(4, 44px);
+    grid-template-columns: repeat(6, 1fr);
+    margin-top: 20px;
+}
