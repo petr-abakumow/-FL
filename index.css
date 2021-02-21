@@ -176,3 +176,18 @@
 @import url(./blocks/footer-servises-image/footer-servises-image.css);
 @import url(./blocks/footer-question/footer-question.css);
 @import url(./blocks/footer-link-read/footer-link-read.css);
+
+
+
+
+a:hover {
+    cursor: pointer;
+    opacity: 0.7;
+    transition: 0.2s;
+}
+
+button:hover {
+    cursor: pointer;
+    opacity: 0.7;
+    transition: 0.2s;
+}

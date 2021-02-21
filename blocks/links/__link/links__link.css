@@ -6,3 +6,9 @@
     line-height: 21px;
     margin: 0 0 0 28px;
 }
+
+.links__link:hover {
+    cursor: pointer;
+    opacity: 0.7;
+    transition: 0.2s;
+}

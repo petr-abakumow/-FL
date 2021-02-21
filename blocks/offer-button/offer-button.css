@@ -12,6 +12,6 @@
 
 .offer-button:hover {
     cursor: pointer;
-    background-color: #e03a9862;
+    opacity: 0.7;
     transition: 0.2s;
 }
