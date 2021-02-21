@@ -5,6 +5,8 @@
     background-color: #fdeaf5;
     display: flex;
     align-items: center;
+    margin: 12px 0 0 35px;
+
 }
 
 .row-text-link-box:hover {

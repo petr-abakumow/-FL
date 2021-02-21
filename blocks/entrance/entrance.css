@@ -1,6 +1,4 @@
 @import url(./__text/entrance__text.css);
-@import url(./__icon/entrance__icon.css);
-
 .entrance {
     text-decoration: none;
     padding: 0;

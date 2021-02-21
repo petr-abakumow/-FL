@@ -1,0 +1,6 @@
+.footer-info {
+    width: 100%;
+    max-width: 273px;
+    display: flex;
+    flex-direction: column;
+}

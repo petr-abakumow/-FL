@@ -1,0 +1,7 @@
+.footer-services-link-block {
+    width: 100%;
+    max-width: 150px;
+    display: flex;
+    margin-top: 11px;
+    box-sizing: border-box;
+}

@@ -1,0 +1,7 @@
+.footer-contacts-icons {
+    display: flex;
+    width: 100%;
+    max-width: 115px;
+    justify-content: space-between;
+    margin: 23px 0 0 0;
+}
