@@ -11,3 +11,9 @@
     max-width: 903px;
     justify-content: space-between;
 }
+
+@media screen and (max-width: 1024px) {
+    .presentation-list {
+        flex-wrap: wrap;
+    }
+}

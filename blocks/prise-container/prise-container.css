@@ -4,3 +4,9 @@
     grid-template-columns: repeat(6, 1fr);
     margin-top: 20px;
 }
+
+@media screen and (max-width: 1024px) {
+    .prise-container {
+        display: none;
+    }
+}

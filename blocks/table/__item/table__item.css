@@ -13,3 +13,9 @@
 .table__item:first-child {
     border-right: 1px solid #eaeaea;
 }
+
+@media screen and (max-width: 1024px) {
+    .table__item:last-child {
+        margin-left: 0;
+    }
+}

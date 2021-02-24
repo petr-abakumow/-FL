@@ -12,3 +12,10 @@
     line-height: 25px;
     color: #e03a97;
 }
+
+@media screen and (max-width: 1024px) {
+    .item-texts-box__title {
+        width: 100%;
+        max-width: 320px;
+    }
+}

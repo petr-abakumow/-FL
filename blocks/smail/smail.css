@@ -7,3 +7,10 @@
     margin: 4px auto 0;
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 1024px) {
+    .smail {
+        max-width: max-content;
+        gap: 20px;
+    }
+}

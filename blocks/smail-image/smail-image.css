@@ -10,3 +10,13 @@
 .smail-image:last-child {
     margin: 1px 116px 0 0;
 }
+
+@media screen and (max-width: 1024px) {
+    .smail-image:first-child {
+        margin: -7px 0 0 0;
+    }
+
+    .smail-image:last-child {
+        margin: 1px 0 0 0;
+    }
+}

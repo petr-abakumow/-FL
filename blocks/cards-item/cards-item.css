@@ -10,3 +10,11 @@
     cursor: pointer;
     color: #e03a97;
 }
+
+@media screen and (max-width: 1024px) {
+    .cards-item {
+        width: 100%;
+        max-width: 150px;
+    }
+}
+

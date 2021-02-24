@@ -7,4 +7,5 @@
 .table {
     display: flex;
     margin: 29px auto 0;
+    flex-direction: column;
 }

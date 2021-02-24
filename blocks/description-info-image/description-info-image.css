@@ -6,3 +6,9 @@
     margin-top: 121px;
     margin-left: 22px;
 }
+
+@media screen and (max-width: 1024px) {
+    .description-info-image {
+        margin-left: 0;
+    }
+}
