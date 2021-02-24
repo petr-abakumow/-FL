@@ -6,3 +6,9 @@
     border-radius: 5px;
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 1024px) {
+    .logo-container__img {
+        max-width: 100px;
+    }
+}
