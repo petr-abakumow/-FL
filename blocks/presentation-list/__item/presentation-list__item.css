@@ -8,3 +8,9 @@
     width: 100%;
     max-width: max-content;
 }
+
+@media screen and (max-width: 1024px) {
+    .presentation-list__item {
+        max-width: 150px;
+    }
+}

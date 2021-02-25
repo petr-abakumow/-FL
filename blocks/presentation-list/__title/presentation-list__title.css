@@ -5,3 +5,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 1024px) {
+    .presentation-list__title {
+        font-size: 17px;
+        width: 100%;
+        max-width: 140px;
+    }
+}

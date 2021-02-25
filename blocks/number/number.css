@@ -2,3 +2,11 @@
     font-size: 37px;
     margin-right: 5px;
 }
+
+@media screen and (max-width: 1024px) {
+    .number {
+        font-size: 32px;
+        margin: 0;
+
+    }
+}

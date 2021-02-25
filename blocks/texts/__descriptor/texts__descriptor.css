@@ -8,3 +8,11 @@
     box-sizing: border-box;
     color: #808080;
 }
+
+@media screen and (max-width: 1024px) {
+    .texts__descriptor {
+        font-size: 12px;
+        line-height: 20px;
+    
+    }
+}

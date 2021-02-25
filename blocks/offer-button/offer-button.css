@@ -15,3 +15,10 @@
     opacity: 0.7;
     transition: 0.2s;
 }
+
+@media screen and (max-width: 1024px) {
+    .offer-button {
+        max-width: none;
+        padding: 0 90px 0 90px;
+    }
+}

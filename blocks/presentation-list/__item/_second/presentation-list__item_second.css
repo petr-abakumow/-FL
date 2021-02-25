@@ -1,3 +1,9 @@
 .presentation-list__item_second {
     max-width: 214px;
 }
+
+@media screen and (max-width: 1024px) {
+    .presentation-list__item_second {
+        max-width: 150px;
+    }
+}

@@ -11,5 +11,7 @@
 @media screen and (max-width: 1024px) {
     .offer {
         flex-direction: column;
+        margin-top: 65px;
+        padding-bottom: 55px;
     }
 }
