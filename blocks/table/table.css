@@ -7,5 +7,11 @@
 .table {
     display: flex;
     margin: 29px auto 0;
-    flex-direction: column;
+}
+
+@media screen and (max-width: 1024px) {
+    .table {
+        flex-direction: column;
+        gap: 60px;
+    }
 }

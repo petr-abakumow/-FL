@@ -1,3 +1,9 @@
 .item-three {
     max-width: 197px;
 }
+
+@media screen and (max-width: 1024px) {
+    .item-three {
+        max-width: 150px;
+    }
+}

@@ -15,5 +15,6 @@
 @media screen and (max-width: 1024px) {
     .presentation-list {
         flex-wrap: wrap;
+        row-gap: 20px;
     }
 }

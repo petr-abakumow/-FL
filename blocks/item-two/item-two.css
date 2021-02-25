@@ -1,3 +1,9 @@
 .item-two {
     max-width: 194px;
 }
+
+@media screen and (max-width: 1024px) {
+    .item-two {
+        max-width: 150px;
+    }
+}
