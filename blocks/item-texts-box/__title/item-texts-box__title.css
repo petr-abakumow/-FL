@@ -17,5 +17,6 @@
     .item-texts-box__title {
         width: 100%;
         max-width: 320px;
+        margin-left: 0;
     }
 }

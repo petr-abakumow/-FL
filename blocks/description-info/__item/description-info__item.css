@@ -8,5 +8,6 @@
     .description-info__item {
         width: 100%;
         max-width: 300px;
+        gap: 20px;
     }
 }
