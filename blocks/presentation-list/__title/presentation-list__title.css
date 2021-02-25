@@ -11,5 +11,7 @@
         font-size: 17px;
         width: 100%;
         max-width: 140px;
+        box-sizing: border-box;
+        padding-top: 15px;
     }
 }

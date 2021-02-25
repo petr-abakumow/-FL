@@ -11,7 +11,7 @@
 
 @media screen and (max-width: 1024px) {
     .presentation-list__descriptor {
-        font-size: 9px;
+        font-size: 12px;
         line-height: 20px;
         max-width: 150px;
         margin-top: 5px;
