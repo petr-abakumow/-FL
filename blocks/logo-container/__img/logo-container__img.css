@@ -9,6 +9,7 @@
 
 @media screen and (max-width: 1024px) {
     .logo-container__img {
-        max-width: 100px;
+        max-width: 101px;
+        min-height: 30px;
     }
 }
