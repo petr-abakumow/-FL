@@ -13,5 +13,6 @@
 @media screen and (max-width: 1024px) {
     .video-block {
         margin-right: 0;
+        border-radius: 0;background-color: white;
     }
 }

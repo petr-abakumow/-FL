@@ -8,3 +8,10 @@
     align-items: center;
     flex-direction: column;
 }
+
+@media screen and (max-width: 1024px) {
+    .opportunities {
+        background-image: none;
+        background-color: white;
+    }
+}
