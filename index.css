@@ -192,3 +192,14 @@ button:hover {
     opacity: 0.7;
     transition: 0.2s;
 }
+
+.box-text {
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 1024px) {
+    .box-text {
+        margin-left: 20px;
+    }
+}

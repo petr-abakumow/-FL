@@ -5,3 +5,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 1024px) {
+    .opportunities-list-item-title {
+        margin: 0;
+    }
+}

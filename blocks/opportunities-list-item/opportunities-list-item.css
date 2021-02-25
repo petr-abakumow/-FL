@@ -6,3 +6,10 @@
     justify-content: start;
 }
 
+@media screen and (max-width: 1024px) {
+    .opportunities-list-item {
+        max-width: 320px;
+        flex-direction: row;
+    }
+}
+

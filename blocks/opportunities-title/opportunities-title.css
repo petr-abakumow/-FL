@@ -4,3 +4,10 @@
     margin: 56px 0 0 27px;
     font-size: 23px;
 }
+
+@media screen and (max-width: 1024px) {
+    .opportunities-title {
+        margin: 60px auto 0;
+        text-align: center;
+    }
+}
