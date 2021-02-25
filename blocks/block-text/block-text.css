@@ -5,3 +5,10 @@
     line-height: 30px;
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 1024px) {
+    .block-text {
+        margin: 0 auto 70px;
+        text-align: center;
+    }
+}

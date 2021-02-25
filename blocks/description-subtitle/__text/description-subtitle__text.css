@@ -5,3 +5,9 @@
     line-height: 35px;
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 1024px) {
+    .description-subtitle__text {
+        margin-left: 0;
+    }
+}
