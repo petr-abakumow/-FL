@@ -6,6 +6,6 @@
 @media screen and (max-width: 1024px) {
     .instruction-list {
         gap: 10px;
-        justify-content: space-between;
+        justify-content: center;
     }
 }
