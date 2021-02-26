@@ -5,3 +5,9 @@
     border-radius: 5px;
 
 }
+
+@media screen and (max-width: 1024px) {
+    .support-image {
+        margin: auto;
+    }
+}

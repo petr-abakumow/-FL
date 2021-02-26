@@ -3,3 +3,9 @@
     max-width: 903px;
     margin: 35px auto 80px;
 }
+
+@media screen and (max-width: 1024px) {
+    .instruction-plstform-info-box {
+        margin-bottom: 50px;
+    }
+}

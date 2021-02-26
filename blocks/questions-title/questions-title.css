@@ -4,3 +4,10 @@
     max-width: 903px;
     font-size: 23px;
 }
+
+@media screen and (max-width: 1024px) {
+    .questions-title {
+        text-align: center;
+        margin-top: 50px;
+    }
+}

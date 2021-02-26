@@ -8,3 +8,10 @@
     padding-bottom: 13px;
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 1024px) {
+    .instruction-table {
+        flex-direction: column;
+        max-width: 167px;
+    }
+}

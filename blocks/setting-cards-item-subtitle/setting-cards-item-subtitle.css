@@ -5,3 +5,9 @@
     width: 100%;
     max-width: 370px;
 }
+
+@media screen and (max-width: 1024px) {
+    .setting-cards-item-subtitle {
+        max-width: 300px;
+    }
+}

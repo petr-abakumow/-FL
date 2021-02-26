@@ -5,3 +5,9 @@
     display: flex;
     flex-direction: column;
 }
+
+@media screen and (max-width: 1024px) {
+    .questions-list-item-text-block {
+        max-width: 320px;
+    }
+}

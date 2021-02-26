@@ -8,3 +8,11 @@
     padding-right: 17px;
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 1024px) {
+    .instruction-offer {
+        flex-direction: column;
+        padding: 0;
+        gap: 10px;
+    }
+}

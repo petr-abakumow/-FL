@@ -11,5 +11,8 @@
 @media screen and (max-width: 1024px) {
     .cards {
         margin-bottom: 50px;
+        column-gap: 10px;
+        row-gap: 15px;
+        margin-top: 50px;
     }
 }

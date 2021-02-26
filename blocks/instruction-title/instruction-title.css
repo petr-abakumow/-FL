@@ -3,4 +3,12 @@
     width: 100%;
     max-width: max-content;
     font-size: 18px;
+    color: #e03a97;
+}
+
+@media screen and (max-width: 1024px) {
+    .instruction-title {
+        margin-top: 50px;
+        text-align: center;
+    }
 }

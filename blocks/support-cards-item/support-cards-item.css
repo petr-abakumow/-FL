@@ -9,3 +9,9 @@
     box-sizing: border-box;
     padding-bottom: 12px;
 }
+
+@media screen and (max-width: 1024px) {
+    .support-cards-item {
+        padding: 15px 15px;
+    }
+}

@@ -4,3 +4,9 @@
     gap: 24px;
     margin-top: 40px;
 }
+
+@media screen and (max-width: 1024px) {
+    .support-cards {
+        flex-direction: column;
+    }
+}
