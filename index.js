@@ -11,12 +11,10 @@ popupOpenCloseButton.addEventListener('click', () => {
         popup.classList.add('display-flex');
         popupOpenedImage.classList.add('display-none');
         popupClosedImage.classList.add('display-flex');
-        console.log('работает')
     } else {
         popup.classList.remove('display-flex');
         popupOpenedImage.classList.remove('display-none');
         popupClosedImage.classList.remove('display-flex');
-        console.log('не работает')
     }
 })
 
