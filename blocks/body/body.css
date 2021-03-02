@@ -19,3 +19,9 @@
         background: none;
     }
 }
+
+@media screen and (max-width: 1427px) {
+    .body {
+        background: none;
+    }
+}

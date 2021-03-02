@@ -13,5 +13,6 @@
 @media screen and (max-width: 1024px) {
     .opportunities-list {
         margin-bottom: 50px;
+        justify-content: center;
     }
 }

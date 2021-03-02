@@ -10,6 +10,6 @@
 @media screen and (max-width: 1024px) {
     .instructions-settings-block-image {
         position: relative;
-        margin-top: 30px;
+        margin: 30px auto 0;
     }
 }

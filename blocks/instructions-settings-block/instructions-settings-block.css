@@ -9,5 +9,6 @@
 @media screen and (max-width: 1024px) {
     .instructions-settings-block {
         margin-top: 50px;
+        justify-content: center;
     }
 }

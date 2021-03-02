@@ -5,3 +5,9 @@
     padding-top: 62px;
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 1024px) {
+    .description-info__text-block {
+        align-items: center;
+    }
+}

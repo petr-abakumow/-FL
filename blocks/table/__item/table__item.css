@@ -18,4 +18,8 @@
     .table__item:last-child {
         margin-left: 0;
     }
+
+    .table__item:first-child {
+        border: none;
+    }
 }
