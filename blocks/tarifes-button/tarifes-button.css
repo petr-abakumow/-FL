@@ -2,11 +2,16 @@
     color: #e03a97;
     font-size: 14px;
     border: none;
-    border-radius: 5px;
     box-sizing: border-box;
     padding: 9px 0 10px 0;
     width: 100%;
     background-color: white;
     font-weight: 700;
     position: relative;
+}
+
+.tarifes-button:active,
+.tarifes-button:focus {
+    background-color: #e03a97;
+    color: white;
 }

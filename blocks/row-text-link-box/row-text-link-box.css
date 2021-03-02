@@ -12,3 +12,9 @@
 .row-text-link-box:hover {
     cursor: pointer;
 }
+
+@media screen and (max-width: 1024px) {
+    .row-text-link-box {
+        margin: 12px 0 0 10px;
+    }
+}

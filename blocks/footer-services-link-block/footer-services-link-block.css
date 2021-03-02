@@ -5,3 +5,10 @@
     margin-top: 11px;
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 1024px) {
+    .footer-services-link-block {
+        max-width: 100%;
+        justify-content: center;
+    }
+}

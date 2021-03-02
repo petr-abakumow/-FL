@@ -2,3 +2,10 @@
     margin: 7px auto 0;
     text-decoration: none;
 }
+
+@media screen and (max-width: 1024px) {
+ .prise-link {
+     width: 100%;
+     margin: 15px auto;
+ }
+}

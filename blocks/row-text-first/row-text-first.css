@@ -4,3 +4,10 @@
     grid-row-start: 2;
     grid-row-end: 3;
 }
+
+@media screen and (max-width: 1024px) {
+    .row-text-first {
+        display: flex;
+        justify-content: space-between;
+    }
+}

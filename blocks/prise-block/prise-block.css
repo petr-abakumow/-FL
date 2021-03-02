@@ -19,7 +19,7 @@
 @media screen and (max-width: 1024px) {
     .prise-block {
         max-width: 320px;
-        margin: 0;
+        margin: 0 auto;
         border: none;
     }
 }

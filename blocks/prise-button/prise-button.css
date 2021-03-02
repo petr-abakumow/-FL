@@ -10,3 +10,9 @@
     margin: auto;
     height: 31px;
 }
+
+@media screen and (max-width: 1024px) {
+    .prise-button {
+        height: 40px;
+    }
+}

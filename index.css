@@ -179,6 +179,7 @@
 @import url(./blocks/smail-mod/smail-mod.css);
 @import url(./blocks/prise-container-mobail/prise-container-mobail.css);
 @import url(./blocks/prise-container-mobail-item/prise-container-mobail-item.css);
+@import url(./blocks/row-text-box/row-text-box.css);
 
 
 
@@ -216,4 +217,10 @@ button:hover {
         width: 100%;
         border-radius: 5px;
     }
+}
+
+button, 
+button:active, 
+button:focus {
+    outline: none;
 }

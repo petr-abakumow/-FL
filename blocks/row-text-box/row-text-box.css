@@ -1,0 +1,9 @@
+.row-text-box {
+    display: none;
+}
+
+@media screen and (max-width: 1024px) {
+    .row-text-box {
+        display: flex;
+    }
+}

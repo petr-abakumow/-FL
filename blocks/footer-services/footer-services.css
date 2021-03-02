@@ -4,3 +4,10 @@
     display: flex;
     flex-direction: column;
 }
+
+@media screen and (max-width: 1024px) {
+    .footer-services {
+        max-width: 100%;
+        align-items: center;
+    }
+}
