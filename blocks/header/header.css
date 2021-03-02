@@ -4,6 +4,10 @@
     display: flex;
     margin: auto;
     box-sizing: border-box;
+    position: fixed;
+    left: 0;
+    right: 0;
+
 }
 
 @media screen and (max-width: 1024px) {
