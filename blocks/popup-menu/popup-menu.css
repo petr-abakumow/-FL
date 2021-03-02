@@ -1,0 +1,10 @@
+.popup-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #e03a97;
+    display: none;
+    width: 100%;
+    max-width: 280px;
+    height: 100%;
+}

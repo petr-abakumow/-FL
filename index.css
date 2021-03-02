@@ -79,7 +79,6 @@
 @import url(./blocks/setting-cards-item-title/setting-cards-item-title.css);
 @import url(./blocks/setting-cards-item-subtitle/setting-cards-item-subtitle.css);
 @import url(./blocks/instructions-settings-block-image/instructions-settings-block-image.css);
-@import url(./blocks/setting-image/setting-image.css);
 @import url(./blocks/instruction-title/instruction-title.css);
 @import url(./blocks/instruction-table/instruction-table.css);
 @import url(./blocks/instruction-list/instruction-list.css);
@@ -180,6 +179,11 @@
 @import url(./blocks/prise-container-mobail/prise-container-mobail.css);
 @import url(./blocks/prise-container-mobail-item/prise-container-mobail-item.css);
 @import url(./blocks/row-text-box/row-text-box.css);
+@import url(./blocks/popup-menu/popup-menu.css);
+@import url(./blocks/menu-list-popup/menu-list-popup.css);
+@import url(./blocks/popup-close-icon/popup-close-icon.css);
+@import url(./blocks/menu-list-popup-item/menu-list-popup-item.css);
+@import url(./blocks/popup-link/popup-link.css);
 
 
 
@@ -229,4 +233,12 @@ button:focus {
 .tarifes-button:hover {
     color: #e03a97;
     opacity: 1;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.display-none {
+    display: none;
 }
