@@ -6,4 +6,8 @@
     background-color: rgb(75, 74, 74);
     align-items: center;
     text-align: center;
+    background-image: url('../../image/Sky_Background_yapfiles.ru.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
 }

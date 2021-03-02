@@ -7,10 +7,15 @@
     display: flex;
     justify-content: center;
     box-sizing: border-box;
+
+    background-image: url('../../image/Слой\ 0.png');
+    background-position: right top;
+    background-size: 100vw;
+    background-repeat: no-repeat;
 }
 @media screen and (max-width: 1024px) {
     .body {
         padding: 0 15px;
-
+        background: none;
     }
 }
