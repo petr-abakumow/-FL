@@ -1,0 +1,7 @@
+.header-box {
+    width: 100%;
+    background-color: rgb(250, 198, 198);
+    position: fixed;
+    left: 0;
+    right: 0;
+}
