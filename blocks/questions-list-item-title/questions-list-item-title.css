@@ -1,12 +1,7 @@
 .questions-list-item-title {
     margin: 20px 0 0 13px;
-    width: 100%;
+    width: 95%;
     font-size: 19px;
     line-height: 25px;
 }
 
-@media screen and (max-width: 1024px) {
-    .questions-list-item-title {
-        max-width: 98%;
-    }
-}
